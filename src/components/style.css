@@ -1,0 +1,39 @@
+.navbarDashboard{
+    background-color: white;
+    box-shadow: rgb(56 50 40) 0px 0px 3px 0px;
+}
+.navbarDashboard .nav-item .nav-link{
+    color: black;
+}
+
+.navbarDashboard .nav-item .nav-link.active{
+    font-weight: bold;
+    opacity: 1;
+}
+.imgLogo{
+    height: 30px;
+    object-fit: cover;
+}
+footer{
+    /* position: absolute; */
+    bottom: 0;
+}
+.navbarDashboard .nav-item .nav-link .absoluteNumber{
+    position: absolute;
+    right: 8px;
+    top: 0px;
+}
+@media screen and (max-width:992px){
+    .navbarDashboard .nav-item .nav-link .absoluteNumber{
+        right: unset;
+        left: 15px;
+    }
+}
+
+@media screen and (min-width:993px) and (max-width:1200px){
+    .navbarDashboard .navbar-nav .nav-link{
+        padding-right: 0.5rem !important;
+        padding-left: 0.1rem !important;
+        font-size: 12px !important;
+    }
+}
