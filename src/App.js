@@ -13,6 +13,8 @@ function App() {
         <Routes>
           <Route path="/home" element={<Home />} />
           <Route path="/users" element={<Users />} />
+          <Route path="/" element={<Home />} />
+          <Route path="*" element={<Home />} />
         </Routes>
       </div>
     </Router>
