@@ -59,9 +59,9 @@ const Header = () => {
                 <DropdownToggle caret nav>
                   <span className="font-size-14"> Profile </span>
                 </DropdownToggle>
-                <DropdownMenu right>
+                <DropdownMenu left>
                     <DropdownItem>
-                        Mohamed Essa
+                        Mohamed
                     </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
@@ -95,9 +95,9 @@ const Header = () => {
                 <DropdownToggle caret nav>
                   <span className="font-size-14"> Profile </span>
                 </DropdownToggle>
-                <DropdownMenu right>
+                <DropdownMenu left>
                       <DropdownItem >
-                        Mohamed Essa
+                        Mohamed
                       </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>

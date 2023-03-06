@@ -1,7 +1,7 @@
 {
   "name": "beshara",
   "version": "0.1.0",
-  "homepage": "https://benessaessa.github.io/beshara",
+  "homepage": "https://benessaessa.github.io",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
   "private": true,
