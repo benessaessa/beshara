@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/beshara/static/css/main.fc558545.css",
-    "main.js": "/beshara/static/js/main.1c563441.js",
+    "main.js": "/beshara/static/js/main.6b26172e.js",
     "static/js/787.7208aacc.chunk.js": "/beshara/static/js/787.7208aacc.chunk.js",
     "static/media/logo.png": "/beshara/static/media/logo.a1b91cf6983818c72293.png",
     "index.html": "/beshara/index.html",
     "main.fc558545.css.map": "/beshara/static/css/main.fc558545.css.map",
-    "main.1c563441.js.map": "/beshara/static/js/main.1c563441.js.map",
+    "main.6b26172e.js.map": "/beshara/static/js/main.6b26172e.js.map",
     "787.7208aacc.chunk.js.map": "/beshara/static/js/787.7208aacc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc558545.css",
-    "static/js/main.1c563441.js"
+    "static/js/main.6b26172e.js"
   ]
 }
